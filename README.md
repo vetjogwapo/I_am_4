@@ -1,15 +1,18 @@
-# Beautiful  Flutter Application for beginners.
+# Beautiful  Flutter Application for beginners.💖
 
 Create a sample application in flutter.
 
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
 
-## ScreenShots
+## ScreenShots📱
 Screenshots will be available soon.....
 
-## Getting Started
+## Getting Started📖
 
 This project is a starting point for a Flutter application.
+
+### 💗 Found this project useful?
+If you found this project useful, then please consider giving it a :star: on Github and Follow me on my Social media account.
 
 ## Project Created & Maintained By
 
