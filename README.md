@@ -4,6 +4,9 @@ Create a sample application in flutter.
 
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
 
+## ScreenShots
+Screenshots will be available soon.....
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
